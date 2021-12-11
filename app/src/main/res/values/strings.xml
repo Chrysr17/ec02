@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bienvenido</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">La contraseña debe contener al menos 4 carácteres</string>
+</resources>
+
